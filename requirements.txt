@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langgraph
+requests
+pydantic
+apscheduler
+yt-dlp
+undetected-chromedriver
+selenium
+moviepy
+Pillow
